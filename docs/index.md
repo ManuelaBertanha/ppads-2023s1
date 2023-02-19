@@ -31,9 +31,9 @@
 
 # Descrição do projeto
 
-*<p>Será entregue um sistema de presenças para a escola Infinito, o qual registrará as informações de quais alunos estão presentes e ausentes em cada aula. Assim, ele apresentará os dados que os gestores da escola desejam obter com a aplicação.</p>*
+*Será entregue um sistema de presenças para a escola Infinito, o qual registrará as informações de quais alunos estão presentes e ausentes em cada aula. Assim, ele apresentará os dados que os gestores da escola desejam obter com a aplicação.*
 
-*<p>Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia, de forma fácil e intuitiva, para registrar quais alunos estavam presentes no dia letivo. O sistema produzirá um relatório de faltas agrupado por data, ano letivo, turma, professor, disciplina ou aluno, facilitando a análise e o acompanhamento do número de faltas. Caso o aluno tenha faltas excessivas (quando a presença dada até o momento estiver abaixo de 80%) os pais ou responsáveis receberão um e-mail notificando-os do ocorrido.</p>*
+*Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia, de forma fácil e intuitiva, para registrar quais alunos estavam presentes no dia letivo. O sistema produzirá um relatório de faltas agrupado por data, ano letivo, turma, professor, disciplina ou aluno, facilitando a análise e o acompanhamento do número de faltas. Caso o aluno tenha faltas excessivas (quando a presença dada até o momento estiver abaixo de 80%) os pais ou responsáveis receberão um e-mail notificando-os do ocorrido.*
 
 # Diagrama de casos de uso
 
