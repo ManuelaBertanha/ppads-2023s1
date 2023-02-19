@@ -55,6 +55,9 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 <h2>Caso de Uso: Receber notificação sobre faltas excessivas</h2>
 
+![useCase-8](https://user-images.githubusercontent.com/102591519/219976360-32fb6548-f4fd-4b87-9d73-2f53ef8a54ec.png)
+![useCase-9](https://user-images.githubusercontent.com/102591519/219976375-4b79809b-72b5-42df-9ca6-8c845b9827ea.png)
+
 # Protótipos de tela
 
 ![Tela-1](https://user-images.githubusercontent.com/102591519/219970725-bf9291ff-02fe-4f42-913b-f0d7633ec25a.png)
