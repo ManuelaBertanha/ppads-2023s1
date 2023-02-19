@@ -37,7 +37,7 @@
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama de casos de uso&gt;*
+![Proj Escola-Infinito-Casos de Uso](https://user-images.githubusercontent.com/102591519/219971837-35acc2c3-baec-4a7f-8690-64a489974008.png)
 
 # Descrição dos casos de uso
 
