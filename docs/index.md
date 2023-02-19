@@ -31,17 +31,29 @@
 
 # Descrição do projeto
 
-*Será entregue um sistema de presenças para a escola Infinito, o qual registrará as informações de quais alunos estão presentes e ausentes em cada aula. Assim, ele apresentará os dados que os gestores da escola desejam obter com a aplicação.*
+Será entregue um sistema de presenças para a escola Infinito, o qual registrará as informações de quais alunos estão presentes e ausentes em cada aula. Assim, ele apresentará os dados que os gestores da escola desejam obter com a aplicação.
 
-*Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia, de forma fácil e intuitiva, para registrar quais alunos estavam presentes no dia letivo. O sistema produzirá um relatório de faltas agrupado por data, ano letivo, turma, professor, disciplina ou aluno, facilitando a análise e o acompanhamento do número de faltas. Caso o aluno tenha faltas excessivas (quando a presença dada até o momento estiver abaixo de 80%) os pais ou responsáveis receberão um e-mail notificando-os do ocorrido.*
+Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia, de forma fácil e intuitiva, para registrar quais alunos estavam presentes no dia letivo. O sistema produzirá um relatório de faltas agrupado por data, ano letivo, turma, professor, disciplina ou aluno, facilitando a análise e o acompanhamento do número de faltas. Caso o aluno tenha faltas excessivas (quando a presença dada até o momento estiver abaixo de 80%) os pais ou responsáveis receberão um e-mail notificando-os do ocorrido.
 
 # Diagrama de casos de uso
 
 ![Proj Escola-Infinito-Casos de Uso](https://user-images.githubusercontent.com/102591519/219971837-35acc2c3-baec-4a7f-8690-64a489974008.png)
 
 # Descrição dos casos de uso
+<h2>Caso de Uso: Registrar falta</h2>
 
-*&lt;Descrição dos casos de uso&gt;*
+![userCase1](https://user-images.githubusercontent.com/102591519/219972383-c0c15b73-57b4-4cb9-9bf2-d56e5ad8b021.png)
+![userCase2](https://user-images.githubusercontent.com/102591519/219972399-3ce86e34-9864-4832-861b-9a5992391e5a.png)
+![userCase3](https://user-images.githubusercontent.com/102591519/219972406-a1207dcf-40f8-436d-bf0a-e1acf3ce61be.png)
+![userCase4](https://user-images.githubusercontent.com/102591519/219972416-6edc3621-2b74-49e7-818f-740d5def4ef9.png)
+
+<h2>Caso de Uso: Gerar relatório de faltas</h2>
+
+![userCase5](https://user-images.githubusercontent.com/102591519/219972419-25be455a-d632-4011-ba56-8b004447526e.png)
+![userCase6](https://user-images.githubusercontent.com/102591519/219972430-9f4387ea-51f8-4898-bbb7-4638f29be7f4.png)
+![userCase7](https://user-images.githubusercontent.com/102591519/219972437-86721d00-f544-4705-a405-2a31701ed8b8.png)
+
+<h2>Caso de Uso: Receber notificação sobre faltas excessivas</h2>
 
 # Protótipos de tela
 
