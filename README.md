@@ -17,4 +17,5 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Deverá ser publicado um release ao término de cada entrega do projeto.
+Release 1.0
+Data: 19/02 - entrega da descrição do projeto, do diagrama de casos de uso, da descrição de cada um dos casos e dos protótipos de tela do sistema.
