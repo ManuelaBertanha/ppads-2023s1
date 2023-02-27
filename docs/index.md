@@ -69,7 +69,8 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 # Modelo de domínio
 
-*&lt;Modelo de domínio&gt;*
+![Proj Escola-Infinito-Página-3 drawio](https://user-images.githubusercontent.com/79451555/221715823-b325c71c-5dfa-4f65-bd91-16ec48905a33.png)
+
 
 # Decisões de arquitetura
 
