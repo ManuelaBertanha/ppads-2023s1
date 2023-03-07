@@ -37,7 +37,8 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 # Diagrama de casos de uso
 
-![Proj Escola-Infinito-Casos de Uso](https://user-images.githubusercontent.com/102591519/219971837-35acc2c3-baec-4a7f-8690-64a489974008.png)
+![Proj Escola-Infinito-Casos de Uso - versão 1 drawio](https://user-images.githubusercontent.com/49102217/223579530-7196f0ff-b63b-46cc-9e5d-dc30982785cd.png)
+
 
 # Descrição dos casos de uso
 <h2>Caso de Uso: Registrar falta</h2>
