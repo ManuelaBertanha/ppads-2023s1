@@ -75,7 +75,7 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 # Decisões de arquitetura
 
-<h2>Diagrama de classe de projeto<h2>
+<h2>Diagrama de classe de projeto</h2>
   
 ![Proj Escola-Infinito-Diagrama de Classes de Projeto drawio](https://user-images.githubusercontent.com/49102217/223580226-bbae7546-656c-4f99-b1fc-1672621a8e77.png)
 
