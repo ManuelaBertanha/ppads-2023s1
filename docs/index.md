@@ -82,7 +82,8 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 # Diagrama de implantação
 
-*&lt;Diagrama de implantação&gt;*
+![Proj Escola-Infinito-Implantação do sistema drawio](https://user-images.githubusercontent.com/49102217/223580451-803d33dc-ffa0-4153-9dbf-f4d25056c1a3.png)
+
 
 # Referências
 
