@@ -74,10 +74,13 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 
 # Decisões de arquitetura
-<h2>Diagrama de Sequência - Registrar falta</h2>
+<h2>Diagrama de Sequência - Registrar Falta</h2>
 
 ![Proj Escola-Infinito-Diagrama de Sequencia drawio](https://user-images.githubusercontent.com/49102217/223582618-7d99f423-1c07-438e-9790-21fd98e31743.png)
 
+<h2>Diagrama de Sequência - Gerar Faltas</h2>
+
+![Proj Escola-Infinito-Diagrama de Sequencia Gerar Relatorio drawio](https://user-images.githubusercontent.com/49102217/223582858-5a311a37-820e-4df0-a3ef-4ff5675f1dfc.png)
 
 <h2>Diagrama de classe de projeto</h2>
   
