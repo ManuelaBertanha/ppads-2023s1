@@ -17,4 +17,6 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Release 1.0 (data: 19/02) - entrega da descrição do projeto, do diagrama de casos de uso, da descrição de cada um dos casos e dos protótipos de tela do sistema.
+Release 1.0 (data: 19/02) - Entrega da descrição do projeto, do diagrama de casos de uso, da descrição de cada um dos casos e dos protótipos de tela do sistema.
+
+Release 2.0 (data: 07/03) - Entrega do diagrama de modelo de domínio e definições da arquitetura. Atualizações dos casos de uso, dos protótipos de tela e inclusão das referencias utilizadas.
