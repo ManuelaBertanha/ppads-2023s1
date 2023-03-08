@@ -112,4 +112,8 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+LARMAN, C. Utilizando UML e Padrões. 3ª ed. São Paulo: Bookman, 2007. 
+
+Meilir Page-Jones, Fundamentos do desenho orientado a objeto com UML, Editora Pearson, 2001.
+
+
