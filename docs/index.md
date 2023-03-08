@@ -70,10 +70,13 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 ![Tela-3](https://user-images.githubusercontent.com/102591519/219970827-13ec87fa-c7fd-4077-9e7b-43e2bcd56c4d.png)
 ![Tela-4](https://user-images.githubusercontent.com/102591519/219970876-58cc0976-309f-41ef-a66e-7dda8352f877.png)
-![Tela-5](https://user-images.githubusercontent.com/102591519/219970874-26ff5a0f-3c71-4d62-a137-42a13cf14f25.png)
-![Tela-6](https://user-images.githubusercontent.com/102591519/219970873-3c39f7fe-b44c-49a0-b241-a46ba0d79efe.png)
+![image](https://user-images.githubusercontent.com/79451555/223590538-0cebb545-911f-45a1-9f56-0e3380b0b207.png)
+![image](https://user-images.githubusercontent.com/79451555/223590617-0c24e69f-3e92-4088-b352-7f7089089c94.png)
 
 <h2>Fluxo - Gerar Relatório</h2>
+
+![image](https://user-images.githubusercontent.com/79451555/223590697-102ef6cc-3069-4bc8-a7a7-a0bbeeeb0b7e.png)
+![image](https://user-images.githubusercontent.com/79451555/223590723-d312c994-7417-418b-ab97-bef2b51e7b5e.png)
 
 # Modelo de domínio
 
