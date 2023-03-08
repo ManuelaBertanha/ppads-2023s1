@@ -78,9 +78,17 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 ![Proj Escola-Infinito-Diagrama de Sequencia drawio](https://user-images.githubusercontent.com/49102217/223582618-7d99f423-1c07-438e-9790-21fd98e31743.png)
 
-<h2>Diagrama de Sequência - Gerar Faltas</h2>
+
+<h2>Diagrama de Sequência - Gerar Relatório</h2>
 
 ![Proj Escola-Infinito-Diagrama de Sequencia Gerar Relatorio drawio](https://user-images.githubusercontent.com/49102217/223582858-5a311a37-820e-4df0-a3ef-4ff5675f1dfc.png)
+
+
+<h2>Diagrama de Sequência - Enviar Notificação</h2>
+
+![Proj Escola-Infinito-Diagrama de Sequencia Receber Norificacao drawio (1)](https://user-images.githubusercontent.com/49102217/223583372-f6834fcf-733d-4c0a-ac32-5d311207b614.png)
+
+
 
 <h2>Diagrama de classe de projeto</h2>
   
