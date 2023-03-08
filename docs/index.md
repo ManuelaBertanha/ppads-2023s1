@@ -50,23 +50,30 @@ Ao utilizar o sistema, o Professor pode fazer duas chamadas de presença no dia,
 
 <h2>Caso de Uso: Gerar relatório de faltas</h2>
 
-![userCase5](https://user-images.githubusercontent.com/102591519/219972419-25be455a-d632-4011-ba56-8b004447526e.png)
-![userCase6](https://user-images.githubusercontent.com/102591519/219972430-9f4387ea-51f8-4898-bbb7-4638f29be7f4.png)
-![userCase7](https://user-images.githubusercontent.com/102591519/219972437-86721d00-f544-4705-a405-2a31701ed8b8.png)
+![gerarRelatório-01](https://user-images.githubusercontent.com/102591519/223589201-9715c838-25d5-4d3a-ba66-12382025c410.png)
+![gerarRelatório-02](https://user-images.githubusercontent.com/102591519/223589316-2927adbc-ee27-4773-b6dc-1718b8e6e227.png)
+![gerarRelatório-03](https://user-images.githubusercontent.com/102591519/223589335-6a01f837-c306-4a34-9bc1-0c976ae28b5e.png)
 
-<h2>Caso de Uso: Receber notificação sobre faltas excessivas</h2>
+<h2>Caso de Uso: Enviar notificação sobre faltas excessivas</h2>
 
-![useCase-8](https://user-images.githubusercontent.com/102591519/219976360-32fb6548-f4fd-4b87-9d73-2f53ef8a54ec.png)
-![useCase-9](https://user-images.githubusercontent.com/102591519/219976375-4b79809b-72b5-42df-9ca6-8c845b9827ea.png)
+![enviarEmail-01](https://user-images.githubusercontent.com/102591519/223589037-d646d475-c9af-4321-99a1-40d9fc2aa180.png)
+![enviarEmail-02](https://user-images.githubusercontent.com/102591519/223589070-c3f2f9c5-053c-43aa-ac93-b6da8d07f1fd.png)
 
 # Protótipos de tela
 
+<h2>Fluxo Principal</h2>
+
 ![Tela-1](https://user-images.githubusercontent.com/102591519/219970725-bf9291ff-02fe-4f42-913b-f0d7633ec25a.png)
 ![Tela-2](https://user-images.githubusercontent.com/102591519/219970755-a69256f9-46dd-4224-a331-926ad0c83697.png)
+
+<h2>Fluxo - Fazer Chamada</h2>
+
 ![Tela-3](https://user-images.githubusercontent.com/102591519/219970827-13ec87fa-c7fd-4077-9e7b-43e2bcd56c4d.png)
 ![Tela-4](https://user-images.githubusercontent.com/102591519/219970876-58cc0976-309f-41ef-a66e-7dda8352f877.png)
 ![Tela-5](https://user-images.githubusercontent.com/102591519/219970874-26ff5a0f-3c71-4d62-a137-42a13cf14f25.png)
 ![Tela-6](https://user-images.githubusercontent.com/102591519/219970873-3c39f7fe-b44c-49a0-b241-a46ba0d79efe.png)
+
+<h2>Fluxo - Gerar Relatório</h2>
 
 # Modelo de domínio
 
