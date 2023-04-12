@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "nomeTurma": "3B",
+        "anoTurma": 2023,
+        "professor": {
+            "id": 2,
+            "nomeProfessor": "Vanessa Gomes",
+            "nomeDisciplina": "Ingles"
+        }
+    },
+    {
+        "id": 3,
+        "nomeTurma": "3A",
+        "anoTurma": 2023,
+        "professor": {
+            "id": 2,
+            "nomeProfessor": "Vanessa Gomes",
+            "nomeDisciplina": "Ingles"
+        }
+    }
+]
