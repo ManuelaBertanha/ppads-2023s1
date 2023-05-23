@@ -68,4 +68,5 @@ public class ProfessorController {
         }
         throw new ResponseStatusException(HttpStatus.NOT_FOUND);
     }
+
 }
