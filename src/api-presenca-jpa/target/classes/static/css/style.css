@@ -146,3 +146,45 @@ h1 {
 .but4:hover {
     background-color: #757272a6;
 }
+
+.but5 {
+    cursor: pointer;
+    font-size: 15px;
+    color: #fafafa;
+    background-color: #cb1414;
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.but5:hover {
+    background-color: #d55555;
+}
+
+label {
+    font-size: larger;
+}
+
+#relatorios {
+    font-size: larger;
+}
+
+form1 {
+    font-size: 22px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+}
